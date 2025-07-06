@@ -1,0 +1,20 @@
+.commonstyle {
+    color: #000000fa;
+    background-color: #c46666;
+    font-family: "verdana", "DejaVu Sans", "sans-serif" ;
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+#number2{
+    color: #0855c9fa;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: #6fd60efa;
+    font-size: 24px;
+    font-weight: bold;
+}
